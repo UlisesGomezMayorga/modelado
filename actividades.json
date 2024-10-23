@@ -185,28 +185,28 @@
 	"actividad" : 6,
 	"punto" : 2,
 	"archivo" : "stl/actividad6-figura2.stl",
-	"nombre": "Cono",
+	"nombre": "Palito de Helado",
 	"imagen": "img/actividad6-figura2.webp",
 	"consigna" : "Replicar la figura tomando en cuenta que el helado mide 50x16x110, aplicando el respectivo redondeo y chaflán y raelizando los cortes. El palito de helado mide 10x110x2 y posee un redondeo de 4.5."
 },{
 	"actividad" : 6,
 	"punto" : 3,
 	"archivo" : "stl/actividad6-figura3.stl",
-	"nombre": "Gancho",
+	"nombre": "Figura de Palitos",
 	"imagen": "img/actividad6-figura3.webp",
 	"consigna" : "Replicar la figura tomando en cuenta que las dimensiones de cada palito son 10x110x2 con redondeo de 4.5"
 },{
 	"actividad" : 6,
 	"punto" : 4,
 	"archivo" : "stl/actividad6-figura4.stl",
-	"nombre": "Rueda",
+	"nombre": "Muñeco",
 	"imagen": "img/actividad6-figura4.webp",
 	"consigna" : "Replicar la figura utilizando varias figuras y realizando los respectivos cortes, chaflanes y redondeos."
 },{
 	"actividad" : 6,
 	"punto" : 5,
 	"archivo" : "stl/actividad6-figura5.stl",
-	"nombre": "Candado",
+	"nombre": "Vaca",
 	"imagen": "img/actividad6-figura5.webp",
 	"consigna" : "Replicar la figura tomando en cuenta los siguientes datos:\nCuerpo: cubo con chaflán y redondeo de 90x100x30.\nPatas: Cilindro de 3x50x360° y Pezuña Cilindro de 6x4x360°.\nCabeza: Cubo de 16x60x56 con chaflán a los lados.\nBoca y Nariz: Cubo de 25x18x60 con redondeo y recortes"
 }
