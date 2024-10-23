@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Modelo 3D STL - Control de Cámara</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+    #container {
+      width: 800px;
+      height: 600px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+    }
+      *{
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+      color: black;
+      font-family: sans-serif;
+  }
+
+  header{
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+      padding: 2vw;
+      border-bottom: 1px gray solid;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .btn{
+      padding: 10px 20px;
+      font-size: 2vh;
+      cursor: pointer;
+      border: none;
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+  }
+    .content{
+    min-height: 85vh;
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    .cuadro{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    overflow-y: auto;
+    /*min-height: 70%;*/
+    height: 70vh;
+    border-radius: 2vw;
+    padding: 3%;
+    gap:3vh;
+  }
+  .img_plane{
+      width: 800px;
+      height: 600px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+  }
+  option{
+    color: white;
+  }
+
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="logo"><a href="/">Curso de Modelado e Impresión 3D</a></h1>
+    <!-- <h2><a href="clases.html" class="btn">Ver Clases</a></h2> -->
+    <select name="actividad" onchange="updateName()" class="btn" id="select_actividad">
+      <option selected="true" value="1">Actividad 1</option>
+      <option value="2">Actividad 2</option>
+      <option value="3">Actividad 3</option>
+      <option value="4">Actividad 4</option>
+      <option value="5">Actividad 5</option>
+      <option value="6">Actividad 6</option>
+    </select>
+  </header>
+  <div class="content">
+    <div class="cuadro">
+      <div class="consigna" style="width: 50%; display: flex;flex-direction: column; gap:20px;font-size: 2vh;">
+        <h1 id="title_actividad">Actividad 1</h1>
+        <h3 id="description">Selecciona el punto.</h3>
+        <button onclick="buscarActividad(1)" class="btn">Punto 1</button>
+        <button onclick="buscarActividad(2)" class="btn">Punto 2</button>
+        <button onclick="buscarActividad(3)" class="btn">Punto 3</button>
+        <button onclick="buscarActividad(4)" class="btn">Punto 4</button>
+        <button onclick="buscarActividad(5)" class="btn">Punto 5</button>
+      </div>
+
+      <div>
+        <div class="buttons" style="display: flex; justify-content: space-between;">
+          <div class="btn" onclick="changeMode('container','image_plane')" style="width: 50%">Figura en el plano</div>
+          <div class="btn" onclick="changeMode('image_plane','container')" style="width: 50%">Imagen en freeCAD</div>
+        </div>
+        <div id="container"></div>
+        <img id="image_plane" style="display: none" src="" class="img_plane" alt="">
+      </div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/STLLoader.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,213 @@
+[
+{
+	"actividad" : 1,
+	"punto" : 1,
+	"archivo" : "stl/actividad1-figura1.stl",
+	"nombre": "Cuatro Cubos",
+	"imagen": "img/actividad1-figura1.webp",
+	"consigna" : "Modelar la figura, todos los cubos tienen la misma dimensión, las medidas de los cubos son de 5.00mm y puedes personalizar con el color que prefieras."
+},{
+	"actividad" : 1,
+	"punto" : 2,
+	"archivo" : "stl/actividad1-figura2.stl",
+	"nombre": "Cubo Rubik",
+	"imagen": "img/actividad1-figura2.webp",
+	"consigna" : "Modelar la figura, cada cubo mide 10mm y la fila del centro está rotada en 45°"
+},{
+	"actividad" : 1,
+	"punto" : 3,
+	"archivo" : "stl/actividad1-figura3.stl",
+	"nombre": "Bloque lego",
+	"imagen": "img/actividad1-figura3.webp",
+	"consigna" : "Modelar la figura, podés elegir las medidas que quieras"
+},{
+	"actividad" : 1,
+	"punto" : 4,
+	"archivo" : "stl/actividad1-figura4.stl",
+	"nombre": "Steve",
+	"imagen": "img/actividad1-figura4.webp",
+	"consigna" : "Replicar la figura 4 tomando en cuenta los siguientes datos: \n - Largo total de las piernas: 30mm (10mm de zapatos y 20mm de pantalón).\n - Largo total de brazos: 30mm (10mm de manga y 20mm de brazo).\n - Medidas de torso: 20mm de largo, 10mm de ancho y 30mm de alto."
+},{
+	"actividad" : 1,
+	"punto" : 5,
+	"archivo" : "stl/actividad1-figura5.stl",
+	"nombre": "Mesa Redonda",
+	"imagen": "img/actividad1-figura5.webp",
+	"consigna" : "Imitar la figura siguiendo las medidas que gustes."
+},{
+	"actividad" : 2,
+	"punto" : 1,
+	"archivo" : "stl/actividad2-figura1.stl",
+	"nombre": "Reloj",
+	"imagen": "img/actividad2-figura1.webp",
+	"consigna" : "Modelar la figura, el borde exterior posee un radio de 7mm, el border interior un radio de 6mm"
+},{
+	"actividad" : 2,
+	"punto" : 2,
+	"archivo" : "stl/actividad2-figura2.stl",
+	"nombre": "Netbook",
+	"imagen": "img/actividad2-figura2.webp",
+	"consigna" : "Modelar la figura, tomar en cuenta los siguientes datos: \n - Base y Pantalla: Largo: 10mm - Ancho: 8mm - Alto: 1mm. \n - Teclado: Largo: 8mm - Ancho: 4mm - Alto: 0.50."
+},{
+	"actividad" : 2,
+	"punto" : 3,
+	"archivo" : "stl/actividad2-figura3.stl",
+	"nombre": "Monitor",
+	"imagen": "img/actividad2-figura3.webp",
+	"consigna" : "Modelar la figura, tomar en cuenta los siguientes datos: \n - Base: Largo: 10mm - Ancho: 5mm - Alto: 1mm. \n - Borde del Monitor: Largo: 16mm - Ancho: 2mm - Alto: 10mm. \n - Cuello: Largo: 4mm - Ancho: 1mm - Alto: 3mm."
+},{
+	"actividad" : 2,
+	"punto" : 4,
+	"archivo" : "stl/actividad2-figura4.stl",
+	"nombre": "Tomacorrientes",
+	"imagen": "img/actividad2-figura4.webp",
+	"consigna" : "Replicar la figura."
+},{
+	"actividad" : 2,
+	"punto" : 5,
+	"archivo" : "stl/actividad2-figura5.stl",
+	"nombre": "Cajonera",
+	"imagen": "img/actividad2-figura5.webp",
+	"consigna" : "Imitar el diseño de la figura estableciendo las medidas en base a lo que ves."
+},{
+	"actividad" : 3,
+	"punto" : 1,
+	"archivo" : "stl/actividad3-figura1.stl",
+	"nombre": "Estanteria",
+	"imagen": "img/actividad3-figura1.webp",
+	"consigna" : "Estanteria: Largo: 20mm - Ancho: 10mm - Alto: 28mm.\n - Rectangulos que la cortan: Largo 18mm - Ancho: 9mm - Alto: 8mm."
+},{
+	"actividad" : 3,
+	"punto" : 2,
+	"archivo" : "stl/actividad3-figura2.stl",
+	"nombre": "Vaso con Bebida",
+	"imagen": "img/actividad3-figura2.webp",
+	"consigna" : "Vaso: Radio1: 5mm - Radio2: 7mm - Alto 15mm.\n - Borde del vaso: Radio1: 8mm - Radio2: 2mm.\n - Bombilla: alto: 25mm - Inner Radius: 0.75 - Outer Radius: 1mm.\n - Bebida: Radio1: 4mm - Radio2: 6mm - Alto: 6mm."
+},{
+	"actividad" : 3,
+	"punto" : 3,
+	"archivo" : "stl/actividad3-figura3.stl",
+	"nombre": "Cubo con Recortes",
+	"imagen": "img/actividad3-figura3.webp",
+	"consigna" : "Cubo de 30x30x30 recortado 3 veces por cubos de 10x10x30, 28x19x28 y 18x9x30 en sus respectivos lugares."
+},{
+	"actividad" : 3,
+	"punto" : 4,
+	"archivo" : "stl/actividad3-figura4.stl",
+	"nombre": "Pizza",
+	"imagen": "img/actividad3-figura4.webp",
+	"consigna" : "Caja: Cubo: Largo: 20mm - Ancho: 20mm - Alto: 3mm - Es recortado por otro cubo.\n - Pizza: Cilindro: Radio: 8mm - Alto: 1mm - Recortado por otro cilindro."
+},{
+	"actividad" : 3,
+	"punto" : 5,
+	"archivo" : "stl/actividad3-figura5.stl",
+	"nombre": "Embudo",
+	"imagen": "img/actividad3-figura5.webp",
+	"consigna" : "Replicar la figura utilizando las medidas que quieras."
+},{
+	"actividad" : 4,
+	"punto" : 1,
+	"archivo" : "stl/actividad4-figura1.stl",
+	"nombre": "Monumento",
+	"imagen": "img/actividad4-figura1.webp",
+	"consigna" : "Consta de 4 cubos \n - El primero de 70x70x10 con un chaflán de 5mm en los lados superiores.\n - El segundo de 60x60x10 con un chaflán de 5mm en los lados superiores\n - El tercero de 40x40x30 con un chaflán de 5mm en los lados superiores.\n - Por último, el cuarto es de 20x20x60 con un chaflán de 5mm en los lados superiores.\nObservar y realizar los cortes necesarios(escalera y otros orificos que se observan en la figura)."
+},{
+	"actividad" : 4,
+	"punto" : 2,
+	"archivo" : "stl/actividad4-figura2.stl",
+	"nombre": "Macetero",
+	"imagen": "img/actividad4-figura2.webp",
+	"consigna" : "Replicar la figura realizando los respectivos corte y uniones."
+},{
+	"actividad" : 4,
+	"punto" : 3,
+	"archivo" : "stl/actividad4-figura3.stl",
+	"nombre": "Capas del Planeta",
+	"imagen": "img/actividad4-figura3.webp",
+	"consigna" : "Replicar la figura modificando los valores de múltiples esferas."
+},{
+	"actividad" : 4,
+	"punto" : 4,
+	"archivo" : "stl/actividad4-figura4.stl",
+	"nombre": "BB-08",
+	"imagen": "img/actividad4-figura4.webp",
+	"consigna" : "Replicar la figura utilizando esferas y el chaflán"
+},{
+	"actividad" : 4,
+	"punto" : 5,
+	"archivo" : "stl/actividad4-figura5.stl",
+	"nombre": "Bate",
+	"imagen": "img/actividad4-figura5.webp",
+	"consigna" : "Copiar la figura utilizando el chaflán y conos."
+},{
+	"actividad" : 5,
+	"punto" : 1,
+	"archivo" : "stl/actividad5-figura1.stl",
+	"nombre": "Webcam",
+	"imagen": "img/actividad5-figura1.webp",
+	"consigna" : "Replicar la figura utilizando cubos y cilindros realizando los respectivos redondeos."
+},{
+	"actividad" : 5,
+	"punto" : 2,
+	"archivo" : "stl/actividad5-figura2.stl",
+	"nombre": "Cono",
+	"imagen": "img/actividad5-figura2.webp",
+	"consigna" : "Replicar la figura"
+},{
+	"actividad" : 5,
+	"punto" : 3,
+	"archivo" : "stl/actividad5-figura3.stl",
+	"nombre": "Gancho",
+	"imagen": "img/actividad5-figura3.webp",
+	"consigna" : "Replicar la figura utilizando cilindros y toroides."
+},{
+	"actividad" : 5,
+	"punto" : 4,
+	"archivo" : "stl/actividad5-figura4.stl",
+	"nombre": "Rueda",
+	"imagen": "img/actividad5-figura4.webp",
+	"consigna" : "Replicar la figura utilizando cubos, cilindros, tuvos y toroides."
+},{
+	"actividad" : 5,
+	"punto" : 5,
+	"archivo" : "stl/actividad5-figura5.stl",
+	"nombre": "Candado",
+	"imagen": "img/actividad5-figura5.webp",
+	"consigna" : "Replicar la figura utilizando cubos, cilindros y toroides realizando los respectivos cortes, chaflanes."
+},{
+	"actividad" : 6,
+	"punto" : 1,
+	"archivo" : "stl/actividad6-figura1.stl",
+	"nombre": "Cuestionario 1",
+	"imagen": "img/actividad6-figura1.webp",
+	"consigna" : "Resolver el siguiente cuestionario: \n https://forms.gle/v2XMbLsju2UhKPrM9"
+},{
+	"actividad" : 6,
+	"punto" : 2,
+	"archivo" : "stl/actividad6-figura2.stl",
+	"nombre": "Cono",
+	"imagen": "img/actividad6-figura2.webp",
+	"consigna" : "Replicar la figura tomando en cuenta que el helado mide 50x16x110, aplicando el respectivo redondeo y chaflán y raelizando los cortes. El palito de helado mide 10x110x2 y posee un redondeo de 4.5."
+},{
+	"actividad" : 6,
+	"punto" : 3,
+	"archivo" : "stl/actividad6-figura3.stl",
+	"nombre": "Gancho",
+	"imagen": "img/actividad6-figura3.webp",
+	"consigna" : "Replicar la figura tomando en cuenta que las dimensiones de cada palito son 10x110x2 con redondeo de 4.5"
+},{
+	"actividad" : 6,
+	"punto" : 4,
+	"archivo" : "stl/actividad6-figura4.stl",
+	"nombre": "Rueda",
+	"imagen": "img/actividad6-figura4.webp",
+	"consigna" : "Replicar la figura utilizando varias figuras y realizando los respectivos cortes, chaflanes y redondeos."
+},{
+	"actividad" : 6,
+	"punto" : 5,
+	"archivo" : "stl/actividad6-figura5.stl",
+	"nombre": "Candado",
+	"imagen": "img/actividad6-figura5.webp",
+	"consigna" : "Replicar la figura tomando en cuenta los siguientes datos:\nCuerpo: cubo con chaflán y redondeo de 90x100x30.\nPatas: Cilindro de 3x50x360° y Pezuña Cilindro de 6x4x360°.\nCabeza: Cubo de 16x60x56 con chaflán a los lados.\nBoca y Nariz: Cubo de 25x18x60 con redondeo y recortes"
+}
+]
