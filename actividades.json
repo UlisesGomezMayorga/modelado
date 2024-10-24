@@ -209,5 +209,75 @@
 	"nombre": "Candado",
 	"imagen": "img/actividad6-figura5.webp",
 	"consigna" : "Replicar la figura tomando en cuenta los siguientes datos:\nCuerpo: cubo con chaflán y redondeo de 90x100x30.\nPatas: Cilindro de 3x50x360° y Pezuña Cilindro de 6x4x360°.\nCabeza: Cubo de 16x60x56 con chaflán a los lados.\nBoca y Nariz: Cubo de 25x18x60 con redondeo y recortes"
+},{
+	"actividad" : 7,
+	"punto" : 1,
+	"archivo" : "stl/actividad7-figura1.stl",
+	"nombre": "Ruleman",
+	"imagen": "img/actividad7-figura1.webp",
+	"consigna" : "Replicar la figura utilizando cortes y array polar."
+},{
+	"actividad" : 7,
+	"punto" : 2,
+	"archivo" : "stl/actividad7-figura2.stl",
+	"nombre": "Engranaje",
+	"imagen": "img/actividad7-figura2.webp",
+	"consigna" : "Replicar la figura utilizando cortes y array polar. Cilindro principal: 75x3x360°."
+},{
+	"actividad" : 7,
+	"punto" : 3,
+	"archivo" : "stl/actividad7-figura3.stl",
+	"nombre": "Cooler",
+	"imagen": "img/actividad7-figura3.webp",
+	"consigna" : "Replicar la figura realizando cortes y utilizando arrays. Tamaño de cooler: 120x120x25."
+},{
+	"actividad" : 7,
+	"punto" : 4,
+	"archivo" : "stl/actividad7-figura4.stl",
+	"nombre": "Diseño rejilla 1",
+	"imagen": "img/actividad7-figura4.webp",
+	"consigna" : "Replicar la figura utilizando arrays y cortes. Tamaño de rejilla: 120x120x25."
+},{
+	"actividad" : 7,
+	"punto" : 5,
+	"archivo" : "stl/actividad7-figura5.stl",
+	"nombre": "Diseño rejilla 2",
+	"imagen": "img/actividad7-figura5.webp",
+	"consigna" : "Replicar la figura utilizando arrays y cortes. Tamaño de rejilla: 120x120x25."
+},{
+	"actividad" : 8,
+	"punto" : 1,
+	"archivo" : "stl/actividad8-figura1.stl",
+	"nombre": "Diseño rejilla 3",
+	"imagen": "img/actividad8-figura1.webp",
+	"consigna" : "Replicar la figura utilizando arrays y cortes. Tamaño de rejilla: 120x120x25."
+},{
+	"actividad" : 8,
+	"punto" : 2,
+	"archivo" : "stl/actividad8-figura2.stl",
+	"nombre": "Diseño rejilla 4",
+	"imagen": "img/actividad8-figura2.webp",
+	"consigna" : "Replicar la figura utilizando arrays y cortes. Tamaño de rejilla: 120x120x25."
+},{
+	"actividad" : 8,
+	"punto" : 3,
+	"archivo" : "stl/actividad8-figura3.stl",
+	"nombre": "Diseño rejilla 5",
+	"imagen": "img/actividad8-figura3.webp",
+	"consigna" : "Replicar la figura utilizando arrays y cortes. Tamaño de rejilla: 120x120x25."
+},{
+	"actividad" : 8,
+	"punto" : 4,
+	"archivo" : "stl/actividad8-figura4.stl",
+	"nombre": "Diseño Libre",
+	"imagen": "img/actividad8-figura4.webp",
+	"consigna" : "Utilizando arrays, haz el diseño de rejilla que prefieras."
+},{
+	"actividad" : 8,
+	"punto" : 5,
+	"archivo" : "stl/actividad8-figura5.stl",
+	"nombre": "",
+	"imagen": "img/actividad8-figura5.webp",
+	"consigna" : ""
 }
 ]
