@@ -269,15 +269,51 @@
 	"actividad" : 8,
 	"punto" : 4,
 	"archivo" : "stl/actividad8-figura4.stl",
-	"nombre": "Diseño Libre",
+	"nombre": "Flecha",
 	"imagen": "img/actividad8-figura4.webp",
-	"consigna" : "Utilizando arrays, haz el diseño de rejilla que prefieras."
+	"consigna" : "Realiza esta figura dibujando en el croquis 2d."
 },{
 	"actividad" : 8,
 	"punto" : 5,
 	"archivo" : "stl/actividad8-figura5.stl",
-	"nombre": "",
+	"nombre": "Llave",
 	"imagen": "img/actividad8-figura5.webp",
+	"consigna" : "Observando la imagen, realiza el dibujo en el croquis 2d"
+},{
+	"actividad" : 9,
+	"punto" : 1,
+	"archivo" : "stl/actividad9-figura1.stl",
+	"nombre": "Auto",
+	"imagen": "img/actividad9-figura1.webp",
+	"consigna" : "Observando la imagen, realiza el dibujo en el croquis 2d."
+},{
+	"actividad" : 9,
+	"punto" : 2,
+	"archivo" : "stl/actividad9-figura2.stl",
+	"nombre": "Rueda",
+	"imagen": "img/actividad9-figura2.webp",
+	"consigna" : "Replica la figura utilizando dibujos como figuras simples."
+},{
+	"actividad" : 9,
+	"punto" : 3,
+	"archivo" : "stl/actividad9-figura3.stl",
+	"nombre": "Diseño libre",
+	"imagen": "img/actividad9-figura3.webp",
+	"consigna" : "Prueba las funcionalidades del banco de trabajo 'Sketch'."
+},{
+	"actividad" : 9,
+	"punto" : 4,
+	"archivo" : "stl/actividad9-figura4.stl",
+	"nombre": "",
+	"imagen": "img/actividad9-figura4.webp",
 	"consigna" : ""
-}
+},{
+	"actividad" : 9,
+	"punto" : 5,
+	"archivo" : "stl/actividad9-figura5.stl",
+	"nombre": "",
+	"imagen": "img/actividad9-figura5.webp",
+	"consigna" : ""
+},
+
 ]
