@@ -304,16 +304,16 @@
 	"actividad" : 9,
 	"punto" : 4,
 	"archivo" : "stl/actividad9-figura4.stl",
-	"nombre": "",
+	"nombre": "Clase libre.",
 	"imagen": "img/actividad9-figura4.webp",
-	"consigna" : ""
+	"consigna" : "Crear las figuras que quieras utilizando formas simples, rendondeo o chaflan, funciones booleanas y si es necesario el croquis en 2d.\nPueden buscar el plano en internet o imitar la figura de la forma que prefieran."
 },{
 	"actividad" : 9,
 	"punto" : 5,
 	"archivo" : "stl/actividad9-figura5.stl",
-	"nombre": "",
+	"nombre": "Enlaces a páginas de proyectos:",
 	"imagen": "img/actividad9-figura5.webp",
-	"consigna" : ""
+	"consigna" : "https://grabcad.com/library?page=1&softwares=freecad"
 }
 
 ]
